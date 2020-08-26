@@ -1,0 +1,31 @@
+html, body {
+    background-color: black;
+}
+.container-fluid {
+    color: #000000;
+    background-color: #000000;
+    width: 100%;
+    width: 100%;
+}
+
+.nav-bar {
+    margin-bottom: -5%;
+    color: #000000;
+    background-color: #000000;
+}
+
+#primary-logo {
+    margin-top: 5%;
+    background-color: #000000;
+}
+
+#transition-black-to-white {
+
+}
+
+#cryptic-message {
+    font-family: 'Julius Sans One', sans-serif;
+    letter-spacing: .5rem;
+    color: white;
+    margin-top: 50px;
+}
